@@ -1,0 +1,15 @@
+{
+    "version": 1,
+    "rules":
+    [
+        {
+            "domain_suffix":
+            [
+                "dasijiaoyu.com",
+                "ainidj.com",
+                "v2ai.top",
+                "quark.cn"
+            ]
+        }
+    ]
+}
